@@ -38,6 +38,12 @@
 
 - [icem7](https://www.icem7.fr/category/outils/parquet/) - Un blog sur les outils de data science, avec des articles de fond sur Parquet.
 
+### Educative resources
+
+- [Un atelier de l'Insee](https://ssphub.github.io/ssphub-ateliers-parquet/) illustrant l'utilisation des données du recensement 🇫🇷 diffusées au format `Parquet`
+- [A course on big data processing](https://ensae-reproductibilite.github.io/website/chapters/big-data.html) that advocates using the Parquet format for production deployment.
+ 
+
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
