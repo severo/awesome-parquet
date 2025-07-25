@@ -4,12 +4,18 @@ Useful resources for using the Parquet format
 
 ## Contents
 
-- [Programming](#programming)
+- [Libraries and Tools](#libraries-and-tools)
   - [JavaScript](#javascript)
-- [Documentation](#documentation)
+- [Resources](#resources)
+  - [Documentation](#documentation)
+  - [Blogs](#blogs)
 
-## Programming
+## Libraries and Tools
 
 ### JavaScript
 
-## Documentation
+## Resources
+
+### Documentation
+
+### Blogs
