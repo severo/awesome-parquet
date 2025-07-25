@@ -20,6 +20,6 @@ Useful resources for using the Parquet format
 
 ### Blogs
 
-## Contribute
+## Contributing
 
-Contributions welcome! Read the [contribution guidelines](./contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
