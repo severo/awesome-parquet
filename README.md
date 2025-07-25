@@ -22,6 +22,8 @@
 
 ### Python
 
+- [Apache Arrow](https://arrow.apache.org/docs/python/parquet.html) - A library for reading and writing Parquet files in Python.
+
 ### R
 
 - [nanoparquet](https://nanoparquet.r-lib.org/) - A reader and writer for a common subset of Parquet files.
@@ -30,7 +32,11 @@
 
 ### Documentation
 
+- [Apache Parquet Documentation](https://parquet.apache.org/docs/) - The official documentation for Apache Parquet.
+
 ### Blogs
+
+- [icem7](https://www.icem7.fr/category/outils/parquet/) - Un blog sur les outils de data science, avec des articles de fond sur Parquet.
 
 ## Contributing
 
