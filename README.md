@@ -19,3 +19,7 @@ Useful resources for using the Parquet format
 ### Documentation
 
 ### Blogs
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](./contributing.md) first.
