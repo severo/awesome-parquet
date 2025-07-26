@@ -38,7 +38,10 @@
 
 ## Tools
 
+- [ChatDB](https://www.chatdb.ai/tools) - Online tools for viewing and converting fromm and to Parquet files.
+- [Datasette](https://lite.datasette.io/) - A tool to explore datasets, with support for reading Parquet files.
 - [Onyxia Data Explorer](https://datalab.sspcloud.fr/data-explorer) - A web-based tool to explore Parquet files in the browser.
+- [Quak](https://manzt.github.io/quak) - A scalable data profiler for quickly scanning large tables.
 
 ## Resources
 
