@@ -38,6 +38,8 @@
 
 ## Tools
 
+- [Onyxia Data Explorer](https://datalab.sspcloud.fr/data-explorer) - A web-based tool to explore Parquet files in the browser.
+
 ## Resources
 
 ### Documentation
