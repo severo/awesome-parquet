@@ -9,6 +9,7 @@
 - [Libraries](#libraries)
   - [Multiple languages](#multiple-languages)
   - [Go](#go)
+  - [Java](#java)
   - [JavaScript](#javascript)
   - [R](#r)
 - [Tools](#tools)
@@ -29,6 +30,10 @@
 ### Go
 
 - [parquet](https://github.com/parsyl/parquet) - A Go library for reading and writing Parquet files.
+
+### Java
+
+- [parquet-carpet](https://github.com/jerolba/parquet-carpet) - A Java library for serializing and deserializing Parquet files efficiently using Java records.
 
 ### JavaScript
 
