@@ -40,8 +40,7 @@
 
 ### Educative resources
 
-- [Un atelier de l'Insee](https://ssphub.github.io/ssphub-ateliers-parquet/) illustrant l'utilisation des données du recensement 🇫🇷 diffusées au format `Parquet`
-- [A course on big data processing](https://ensae-reproductibilite.github.io/website/chapters/big-data.html) that advocates using the Parquet format for production deployment.
+- [ssphub](https://ssphub.github.io/ssphub-ateliers-parquet/) - Un atelier de l'Insee illustrant l'utilisation des données du recensement 🇫🇷 diffusées au format `Parquet`
  
 
 ## Contributing
