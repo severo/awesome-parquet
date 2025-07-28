@@ -12,6 +12,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [R](#r)
+  - [Rust](#rust)
 - [Tools](#tools)
   - [Command-line](#command-line)
   - [Desktop applications](#desktop-applications)
@@ -45,12 +46,17 @@
 
 - [nanoparquet](https://nanoparquet.r-lib.org/) - A reader and writer for a common subset of Parquet files.
 
+### Rust
+
+- [Polars](https://github.com/pola-rs/polars) - A DataFrame interface on top of an OLAP Query Engine that supports reading and writing Parquet files, with bindings for Python.
+
 ## Tools
 
 ### Command-line
 
 - [DuckDB CLI](https://duckdb.org/docs/stable/clients/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
 - [parquet-tools](https://pypi.org/project/parquet-tools/) - CLI tool for exploring parquet files (part of Apache Arrow).
+- [Spark](https://spark.apache.org/) - A multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
 - [Tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 
 ### Desktop applications
