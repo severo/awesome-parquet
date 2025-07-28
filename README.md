@@ -13,8 +13,9 @@
   - [R](#r)
 - [Tools](#tools)
 - [Resources](#resources)
-  - [Documentation](#documentation)
   - [Blogs](#blogs)
+  - [Documentation](#documentation)
+  - [Educative resources](#educative-resources)
 
 ## Libraries
 
@@ -45,19 +46,18 @@
 
 ## Resources
 
-### Documentation
-
-- [Apache Parquet Documentation](https://parquet.apache.org/docs/) - The official documentation for Apache Parquet.
-
 ### Blogs
 
 - [icem7](https://www.icem7.fr/category/outils/parquet/) - Un blog sur les outils de data science, avec des articles de fond sur Parquet.
 - [Hyparquet: The Quest for Instant Data](https://blog.hyperparam.app/2025/07/24/quest-for-instant-data/) - 6 optimizations tricks to read Parquet files faster in the browser.
 
+### Documentation
+
+- [Apache Parquet Documentation](https://parquet.apache.org/docs/) - The official documentation for Apache Parquet.
+
 ### Educative resources
 
-- [ssphub](https://ssphub.github.io/ssphub-ateliers-parquet/) - Un atelier de l'Insee illustrant l'utilisation des données du recensement 🇫🇷 diffusées au format `Parquet`
- 
+- [ssphub](https://ssphub.github.io/ssphub-ateliers-parquet/) - Un atelier de l'Insee illustrant l'utilisation des données du recensement 🇫🇷 diffusées au format Parquet.
 
 ## Contributing
 
