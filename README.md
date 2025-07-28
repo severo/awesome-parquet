@@ -12,6 +12,8 @@
   - [JavaScript](#javascript)
   - [R](#r)
 - [Tools](#tools)
+  - [Command-line](#command-line)
+  - [Web](#web)
 - [Resources](#resources)
   - [Blogs](#blogs)
   - [Documentation](#documentation)
@@ -39,11 +41,17 @@
 
 ## Tools
 
+### Command-line
+
+- [DuckDB CLI](https://duckdb.org/docs/stable/clients/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
+- [parquet-tools](https://pypi.org/project/parquet-tools/) - CLI tool for exploring parquet files (part of Apache Arrow).
+
+### Web
+
 - [ChatDB](https://www.chatdb.ai/tools) - Online tools for viewing and converting fromm and to Parquet files.
 - [Datasette](https://lite.datasette.io/) - A tool to explore datasets, with support for reading Parquet files.
 - [Onyxia Data Explorer](https://datalab.sspcloud.fr/data-explorer) - A web-based tool to explore Parquet files in the browser.
 - [Quak](https://manzt.github.io/quak) - A scalable data profiler for quickly scanning large tables.
-- [parquet-tools](https://pypi.org/project/parquet-tools/) - CLI tool for exploring parquet files
 
 ## Resources
 
