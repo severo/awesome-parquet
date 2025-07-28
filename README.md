@@ -61,7 +61,7 @@
 
 ### Desktop applications
 
-- [Tad](https://github.com/antonycourtney/tad)- an application for viewing and analyzing tabular data sets.
+- [Tad](https://github.com/antonycourtney/tad) - An application for viewing and analyzing tabular data sets.
 
 ### Web
 
