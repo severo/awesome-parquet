@@ -76,6 +76,7 @@
 
 - [icem7](https://www.icem7.fr/category/outils/parquet/) - Un blog sur les outils de data science, avec des articles de fond sur Parquet.
 - [Hyparquet: The Quest for Instant Data](https://blog.hyperparam.app/2025/07/24/quest-for-instant-data/) - 6 optimizations tricks to read Parquet files faster in the browser.
+- [Why Parquet Is the Go-To Format for Data Engineers](https://luminousmen.com/post/why-parquet-is-the-goto-format-for-data-engineers) - A graphical description of the Parquet format with optimization and best practices.
 
 ### Documentation
 
