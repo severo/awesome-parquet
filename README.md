@@ -16,6 +16,7 @@
 - [Tools](#tools)
   - [Command-line](#command-line)
   - [Desktop applications](#desktop-applications)
+  - [Plugins](#plugins)
   - [Web](#web)
 - [Resources](#resources)
   - [Blogs](#blogs)
@@ -62,6 +63,10 @@
 ### Desktop applications
 
 - [Tad](https://github.com/antonycourtney/tad) - An application for viewing and analyzing tabular data sets.
+
+### Plugins
+
+- [nf-parquet](https://github.com/nextflow-io/nf-parquet) - A Nextflow plugin able to read and write parquet files.
 
 ### Web
 
