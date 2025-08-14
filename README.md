@@ -65,6 +65,7 @@
 
 ### Desktop applications
 
+- [Pink Parquet](https://pinkparquet.com/) - A free and open-source, user-friendly viewer for Parquet files for Windows.
 - [Tad](https://github.com/antonycourtney/tad) - An application for viewing and analyzing tabular data sets.
 
 ### Plugins
