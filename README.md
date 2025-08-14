@@ -84,7 +84,7 @@
 
 ### Blogs
 
-- [icem7](https://www.icem7.fr/category/outils/parquet/) - Un blog sur les outils de data science, avec des articles de fond sur Parquet.
+- [icem7](https://www.icem7.fr/?s=parquet) - Un blog sur les outils de data science, avec des articles de fond sur Parquet.
 - [Hyparquet: The Quest for Instant Data](https://blog.hyperparam.app/2025/07/24/quest-for-instant-data/) - 6 optimization tricks to read Parquet files faster in the browser.
 - [Querying Parquet with Precision Using DuckDB](https://duckdb.org/2021/06/25/querying-parquet.html) - Describes how DuckDB optimizes queries to a Parquet file using projection & filter pushdown.
 - [Why Parquet Is the Go-To Format for Data Engineers](https://luminousmen.com/post/why-parquet-is-the-goto-format-for-data-engineers) - A graphical description of the Parquet format with optimization and best practices.
