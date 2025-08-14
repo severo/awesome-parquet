@@ -37,6 +37,7 @@
 ### Java
 
 - [parquet-carpet](https://github.com/jerolba/parquet-carpet) - A Java library for serializing and deserializing Parquet files efficiently using Java records.
+- [parquet-java](https://github.com/apache/parquet-java) - A Java implementation of the Parquet format, owned by the Apache Software Foundation.
 
 ### JavaScript
 
@@ -56,7 +57,9 @@
 ### Command-line
 
 - [DuckDB CLI](https://duckdb.org/docs/stable/clients/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
-- [parquet-tools](https://pypi.org/project/parquet-tools/) - CLI tool for exploring parquet files (part of Apache Arrow).
+- [parquet-tools](https://pypi.org/project/parquet-tools/) - Python-based CLI tool for exploring parquet files (part of Apache Arrow).
+- [parquet-cli](https://github.com/apache/parquet-java/tree/master/parquet-cli) - Java-based CLI tool for exploring parquet files.
+- [parquet-cli-standalone](https://github.com/marcelmay/parquet-cli-standalone) - A JAR file for the parquet-cli tool which can be run without any dependencies.
 - [Spark](https://spark.apache.org/) - A multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
 - [Tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 
