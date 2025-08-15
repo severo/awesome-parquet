@@ -91,6 +91,7 @@
 
 ### Documentation
 
+- [Parquet](https://github.com/apache/parquet-format) - The specification for Apache Parquet and Apache Thrift definitions to read and write Parquet metadata.
 - [Apache Parquet Documentation](https://parquet.apache.org/docs/) - The official documentation for Apache Parquet.
 
 ### Educative resources
