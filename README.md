@@ -11,9 +11,9 @@
   - [Go](#go)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Python](#python)
   - [R](#r)
   - [Rust](#rust)
-  - [Python](#python)
 - [Tools](#tools)
   - [Command-line](#command-line)
   - [Desktop applications](#desktop-applications)
@@ -45,6 +45,10 @@
 - [hyparquet](https://github.com/hyparquet/hyparquet) - A lightweight, dependency-free, pure JavaScript library for parsing Apache Parquet files.
 - [parquet-wasm](https://kylebarron.dev/parquet-wasm/) - WebAssembly bindings to read and write the Apache Parquet format to and from Apache Arrow using the Rust parquet and arrow crates.
 
+### Python
+
+- [fastparquet](https://github.com/dask/fastparquet/) - A Python implementation of the Parquet columnar file format. 
+
 ### R
 
 - [nanoparquet](https://nanoparquet.r-lib.org/) - A reader and writer for a common subset of Parquet files.
@@ -52,10 +56,6 @@
 ### Rust
 
 - [Polars](https://github.com/pola-rs/polars) - A DataFrame interface on top of an OLAP Query Engine that supports reading and writing Parquet files, with bindings for Python.
-
-### Python
-
-- [fastparquet](https://github.com/dask/fastparquet/) - A Python implementation of the Parquet columnar file format. 
 
 ## Tools
 
