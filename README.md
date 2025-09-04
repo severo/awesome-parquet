@@ -14,7 +14,6 @@
   - [Python](#python)
   - [R](#r)
   - [Rust](#rust)
-  - [Python](#python)
 - [Tools](#tools)
   - [Command-line](#command-line)
   - [Desktop applications](#desktop-applications)
