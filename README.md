@@ -60,10 +60,6 @@
 
 - [Polars](https://github.com/pola-rs/polars) - A DataFrame interface on top of an OLAP Query Engine that supports reading and writing Parquet files, with bindings for Python.
 
-### Python
-
-- [fastparquet](https://github.com/dask/fastparquet/) - A Python implementation of the Parquet columnar file format. 
-
 ## Tools
 
 ### Command-line
