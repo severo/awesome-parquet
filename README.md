@@ -47,7 +47,9 @@
 
 ### Python
 
-- [fastparquet](https://github.com/dask/fastparquet/) - A Python implementation of the Parquet columnar file format. 
+- [fastparquet](https://github.com/dask/fastparquet/) - A Python implementation of the Parquet columnar file format.
+- [petastorm](https://github.com/uber/petastorm) - Petastorm is a library enabling the use of Parquet storage from Tensorflow, Pytorch, and other Python-based ML training frameworks.
+- [dask](https://github.com/dask/dask) - Dask is a flexible parallel computing library for analytics that can efficiently load and process multiple Parquet files as a unified dataset, enabling distributed computations on datasets larger than memory.
 
 ### R
 
