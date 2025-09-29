@@ -23,6 +23,7 @@
   - [Blogs](#blogs)
   - [Documentation](#documentation)
   - [Educative resources](#educative-resources)
+  - [Tests](#tests)
 
 ## Libraries
 
@@ -102,6 +103,10 @@
 ### Educative resources
 
 - [ssphub](https://ssphub.github.io/ssphub-ateliers-parquet/) - Un atelier de l'Insee illustrant l'utilisation des données du recensement 🇫🇷 diffusées au format Parquet.
+
+### Tests
+
+- [parquet-testing](https://github.com/apache/parquet-testing) - Testing Data and Utilities for Apache Parquet.
 
 ## Contributing
 
