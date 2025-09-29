@@ -30,7 +30,7 @@
 ### Multiple languages
 
 - [Apache Arrow](https://arrow.apache.org/docs) - A library with support for reading and writing Parquet files, with multiple packages for C++, Java, JavaScript, Python, R, Rust, and more.
-- [DuckDB](https://duckdb.org/) - An in-process database library that supports reading and writing Parquet files, with multiple packages for C, Java, Python, R, JavaScript (WASM), and more.
+- [DuckDB](https://duckdb.org/) - An in-process database library that supports reading and writing Parquet files, with multiple packages for C, Java, Python, R, JavaScript (WebAssembly), and more.
 
 ### Go
 
