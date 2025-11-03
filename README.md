@@ -11,6 +11,7 @@
   - [Go](#go)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [.NET](#net)
   - [Python](#python)
   - [R](#r)
   - [Rust](#rust)
@@ -45,6 +46,11 @@
 
 - [hyparquet](https://github.com/hyparquet/hyparquet) - A lightweight, dependency-free, pure JavaScript library for parsing Apache Parquet files.
 - [parquet-wasm](https://kylebarron.dev/parquet-wasm/) - WebAssembly bindings to read and write the Apache Parquet format to and from Apache Arrow using the Rust parquet and arrow crates.
+
+### .NET
+
+- [ParquetSharp](https://g-research.github.io/ParquetSharp/) - A .NET wrapper over the C++ Parquet library that integrates with [.NET Arrow](https://github.com/apache/arrow-dotnet).
+- [Parquet.Net](https://github.com/aloneguid/parquet-dotnet) - A fully managed Parquet library for .NET.
 
 ### Python
 
