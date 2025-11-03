@@ -84,6 +84,8 @@
 - [DataConverter.io](https://dataconverter.io/tools/parquet) - Online tools for viewing, converting, and transforming Parquet files.
 - [Datasette](https://lite.datasette.io/) - A tool to explore datasets, with support for reading Parquet files.
 - [Onyxia Data Explorer](https://datalab.sspcloud.fr/data-explorer) - A web-based tool to explore Parquet files in the browser.
+- [Parquet File Visualizer](https://julien.ledem.net/experiment/parquet-visualizer.html) - claude-code generated parquet metadata vizualizer that runs in your browser.
+- [Parquet Viewer](https://parquet-viewer.xiangpeng.systems/) - View parquet files online.
 - [Quak](https://manzt.github.io/quak) - A scalable data profiler for quickly scanning large tables.
 
 ## Resources
