@@ -8,12 +8,16 @@
 
 - [Libraries](#libraries)
   - [Multiple languages](#multiple-languages)
+  - [C GLib](#c-glib)
+  - [C++](#c)
   - [Go](#go)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Julia](#julia)
   - [.NET](#net)
   - [Python](#python)
   - [R](#r)
+  - [Ruby](#ruby)
   - [Rust](#rust)
 - [Tools](#tools)
   - [Command-line](#command-line)
@@ -30,15 +34,25 @@
 
 ### Multiple languages
 
-- [Apache Arrow](https://arrow.apache.org/docs) - A library with support for reading and writing Parquet files, with multiple packages for C++, Java, JavaScript, Python, R, Rust, and more.
 - [DuckDB](https://duckdb.org/) - An in-process database library that supports reading and writing Parquet files, with multiple packages for C, Java, Python, R, JavaScript (WebAssembly), and more.
+
+### C GLib
+
+- [Arrow GLib](https://arrow.apache.org/docs/c_glib/parquet-glib/index.html) - A wrapper library for Arrow C++.
+
+### C++
+
+- [Apache Arrow C++](https://github.com/apache/arrow/tree/main/cpp) - A library with support for reading and writing Parquet files.
+- [libcudf](https://docs.rapids.ai/api/cudf/stable/libcudf_docs/) - A GPU-accelerated DataFrame library for tabular data processing.
 
 ### Go
 
-- [parquet](https://github.com/parsyl/parquet) - A Go library for reading and writing Parquet files.
+- [parquet](https://pkg.go.dev/github.com/apache/arrow-go/v18@v18.4.1/parquet) - Official Go implementation of Apache Arrow.
+- [parsyl/parquet](https://github.com/parsyl/parquet) - A Go library for reading and writing Parquet files.
 
 ### Java
 
+- [cudf](https://github.com/rapidsai/cudf/tree/main/java) - Java bindings for cudf, to be able to process large amounts of data on a GPU.
 - [parquet-carpet](https://github.com/jerolba/parquet-carpet) - A Java library for serializing and deserializing Parquet files efficiently using Java records.
 - [parquet-java](https://github.com/apache/parquet-java) - A Java implementation of the Parquet format, owned by the Apache Software Foundation.
 
@@ -47,6 +61,10 @@
 - [hyparquet](https://github.com/hyparquet/hyparquet) - A lightweight, dependency-free, pure JavaScript library for parsing Apache Parquet files.
 - [parquet-wasm](https://kylebarron.dev/parquet-wasm/) - WebAssembly bindings to read and write the Apache Parquet format to and from Apache Arrow using the Rust parquet and arrow crates.
 
+### Julia
+
+- [Parquet.jl](https://github.com/JuliaIO/Parquet.jl) - Julia implementation of Parquet columnar file format reader.
+
 ### .NET
 
 - [ParquetSharp](https://g-research.github.io/ParquetSharp/) - A .NET wrapper over the C++ Parquet library that integrates with [.NET Arrow](https://github.com/apache/arrow-dotnet).
@@ -54,14 +72,22 @@
 
 ### Python
 
+- [pyarrow](https://arrow.apache.org/docs/python/parquet.html) - A Python API for functionality provided by the Arrow C++ libraries, along with tools for Arrow integration and interoperability with Pandas, NumPy, and other software in the Python ecosystem.
+- [pylibcudf](https://docs.rapids.ai/api/cudf/stable/pylibcudf/) - A lightweight Cython interface to libcudf that provides near-zero overhead for GPU-accelerated data processing in Python.
 - [fastparquet](https://github.com/dask/fastparquet/) - A Python implementation of the Parquet columnar file format. 
 
 ### R
 
+- [{arrow}](https://arrow.apache.org/docs/r/articles/arrow.html) - The `{arrow}` package provides an Arrow C++ backend to `{dplyr}`, and access to the Arrow C++ library through familiar base R and tidyverse functions, or `{R6}` classes.
 - [nanoparquet](https://nanoparquet.r-lib.org/) - A reader and writer for a common subset of Parquet files.
+
+### Ruby
+
+- [Red Parquet](https://github.com/apache/arrow/tree/main/ruby/red-parquet) - The Ruby bindings of Apache Parquet, based on GObject Introspection.
 
 ### Rust
 
+- [parquet](https://arrow.apache.org/rust/parquet/index.html) - The official Native Rust implementation of Apache Parquet, part of the Apache Arrow project.
 - [Polars](https://github.com/pola-rs/polars) - A DataFrame interface on top of an OLAP Query Engine that supports reading and writing Parquet files, with bindings for Python.
 
 ## Tools
