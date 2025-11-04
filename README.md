@@ -7,18 +7,20 @@
 ## Contents
 
 - [Libraries](#libraries)
-  - [Multiple languages](#multiple-languages)
   - [C GLib](#c-glib)
   - [C++](#c)
+  - [Dart](#dart)
   - [Go](#go)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [.NET](#net)
+  - [PHP](#php)
   - [Python](#python)
   - [R](#r)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [Swift](#swift)
 - [Tools](#tools)
   - [Command-line](#command-line)
   - [Desktop applications](#desktop-applications)
@@ -32,37 +34,44 @@
 
 ## Libraries
 
-### Multiple languages
-
-- [DuckDB](https://duckdb.org/) - An in-process database library that supports reading and writing Parquet files, with multiple packages for C, Java, Python, R, JavaScript (WebAssembly), and more.
-
 ### C GLib
 
 - [Arrow GLib](https://arrow.apache.org/docs/c_glib/parquet-glib/index.html) - A wrapper library for Arrow C++.
+- [DuckDB](https://duckdb.org/docs/stable/clients/c/overview) - An in-process database library that supports reading and writing Parquet files.
 
 ### C++
 
 - [Apache Arrow C++](https://github.com/apache/arrow/tree/main/cpp) - A library with support for reading and writing Parquet files.
+- [DuckDB C++ API](https://duckdb.org/docs/stable/clients/cpp) - Internal DuckDB C++ API.
 - [libcudf](https://docs.rapids.ai/api/cudf/stable/libcudf_docs/) - A GPU-accelerated DataFrame library for tabular data processing.
+
+### Dart
+
+- [DuckDB.Dart](https://duckdb.org/docs/stable/clients/dart) - DuckDB Dart bindings.
 
 ### Go
 
+- [duckdb-go](https://duckdb.org/docs/stable/clients/go) - DuckDB Go client.
 - [parquet](https://pkg.go.dev/github.com/apache/arrow-go/v18@v18.4.1/parquet) - Official Go implementation of Apache Arrow.
 - [parsyl/parquet](https://github.com/parsyl/parquet) - A Go library for reading and writing Parquet files.
 
 ### Java
 
 - [cudf](https://github.com/rapidsai/cudf/tree/main/java) - Java bindings for cudf, to be able to process large amounts of data on a GPU.
+- [duckdb-java](https://duckdb.org/docs/stable/clients/java) - DuckDB Java/JDBC API.
 - [parquet-carpet](https://github.com/jerolba/parquet-carpet) - A Java library for serializing and deserializing Parquet files efficiently using Java records.
 - [parquet-java](https://github.com/apache/parquet-java) - A Java implementation of the Parquet format, owned by the Apache Software Foundation.
 
 ### JavaScript
 
+- [duckdb-wasm](https://duckdb.org/docs/stable/clients/wasm/overview) - WebAssembly version of DuckDB.
+- [duckdb-node-neo](https://duckdb.org/docs/stable/clients/node_neo/overview) - DuckDB Node.js client.
 - [hyparquet](https://github.com/hyparquet/hyparquet) - A lightweight, dependency-free, pure JavaScript library for parsing Apache Parquet files.
 - [parquet-wasm](https://kylebarron.dev/parquet-wasm/) - WebAssembly bindings to read and write the Apache Parquet format to and from Apache Arrow using the Rust parquet and arrow crates.
 
 ### Julia
 
+- [DuckDB](https://duckdb.org/docs/stable/clients/julia) - Official DuckDB Julia package.
 - [Parquet.jl](https://github.com/JuliaIO/Parquet.jl) - Julia implementation of Parquet columnar file format reader.
 
 ### .NET
@@ -70,15 +79,21 @@
 - [ParquetSharp](https://g-research.github.io/ParquetSharp/) - A .NET wrapper over the C++ Parquet library that integrates with [.NET Arrow](https://github.com/apache/arrow-dotnet).
 - [Parquet.Net](https://github.com/aloneguid/parquet-dotnet) - A fully managed Parquet library for .NET.
 
+### PHP
+
+- [duckdb-php](https://duckdb.org/docs/stable/clients/php) - DuckDB API for PHP.
+
 ### Python
 
+- [duckdb-python](https://duckdb.org/docs/stable/clients/python/overview) - DuckDB Python client.
 - [pyarrow](https://arrow.apache.org/docs/python/parquet.html) - A Python API for functionality provided by the Arrow C++ libraries, along with tools for Arrow integration and interoperability with Pandas, NumPy, and other software in the Python ecosystem.
 - [pylibcudf](https://docs.rapids.ai/api/cudf/stable/pylibcudf/) - A lightweight Cython interface to libcudf that provides near-zero overhead for GPU-accelerated data processing in Python.
 - [fastparquet](https://github.com/dask/fastparquet/) - A Python implementation of the Parquet columnar file format. 
 
 ### R
 
-- [{arrow}](https://arrow.apache.org/docs/r/articles/arrow.html) - The `{arrow}` package provides an Arrow C++ backend to `{dplyr}`, and access to the Arrow C++ library through familiar base R and tidyverse functions, or `{R6}` classes.
+- [arrow](https://arrow.apache.org/docs/r/articles/arrow.html) - The `arrow` package provides an Arrow C++ backend to `dplyr`, and access to the Arrow C++ library through familiar base R and tidyverse functions, or `R6` classes.
+- [duckdb-r](https://duckdb.org/docs/stable/clients/r) - DuckDB R package.
 - [nanoparquet](https://nanoparquet.r-lib.org/) - A reader and writer for a common subset of Parquet files.
 
 ### Ruby
@@ -87,8 +102,13 @@
 
 ### Rust
 
+- [duckdb-rs](https://duckdb.org/docs/stable/clients/rust) - DuckDB Rust client.
 - [parquet](https://arrow.apache.org/rust/parquet/index.html) - The official Native Rust implementation of Apache Parquet, part of the Apache Arrow project.
 - [Polars](https://github.com/pola-rs/polars) - A DataFrame interface on top of an OLAP Query Engine that supports reading and writing Parquet files, with bindings for Python.
+
+### Swift
+
+- [duckdb-swift](https://duckdb.org/docs/stable/clients/swift) - DuckDB Swift client.
 
 ## Tools
 
