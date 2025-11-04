@@ -8,7 +8,7 @@
 
 - [Libraries](#libraries)
   - [Multiple languages](#multiple-languages)
-  - [C lang](#c-lang)
+  - [C GLib](#c-glib)
   - [C++](#c)
   - [Go](#go)
   - [Java](#java)
@@ -36,7 +36,7 @@
 
 - [DuckDB](https://duckdb.org/) - An in-process database library that supports reading and writing Parquet files, with multiple packages for C, Java, Python, R, JavaScript (WebAssembly), and more.
 
-### C lang
+### C GLib
 
 - [Arrow GLib](https://arrow.apache.org/docs/c_glib/parquet-glib/index.html) - A wrapper library for Arrow C++.
 
