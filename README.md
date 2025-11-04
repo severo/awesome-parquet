@@ -31,6 +31,7 @@
   - [Documentation](#documentation)
   - [Educative resources](#educative-resources)
   - [Tests](#tests)
+- [Related formats](#related-formats)
 
 ## Libraries
 
@@ -161,6 +162,16 @@
 ### Tests
 
 - [parquet-testing](https://github.com/apache/parquet-testing) - Testing Data and Utilities for Apache Parquet.
+
+## Related formats
+
+- [F3](https://github.com/future-file-format/F3) - A data file format that is designed with efficiency, interoperability, and extensibility in mind.
+- [GeoParquet](https://geoparquet.org/) - Specification for storing geospatial vector data (point, line, polygon) in Parquet.
+- [Iceberg](https://iceberg.apache.org/) - A high-performance format for huge analytic tables, that supports Parquet as one of its storage formats.
+- [Lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs.
+- [Nimble](https://github.com/facebookincubator/nimble) - File format for storage of large columnar datasets.
+- [ORC](https://orc.apache.org/) - Self-describing type-aware columnar file format designed for Hadoop workloads.
+- [Vortex](https://github.com/vortex-data/vortex) - A columnar file format designed for high-performance data processing.
 
 ## Contributing
 
