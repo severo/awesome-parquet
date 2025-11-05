@@ -103,7 +103,7 @@
 
 ### Rust
 
-- [datafusion](https://datafusion.apache.org) - DataFusion is an extensible query engine written in Rust that can read/write Parquet files using SQL or a DataFrame API
+- [datafusion](https://datafusion.apache.org) - An extensible query engine written in Rust that can read/write Parquet files using SQL or a DataFrame API.
 - [duckdb-rs](https://duckdb.org/docs/stable/clients/rust) - DuckDB Rust client.
 - [parquet](https://arrow.apache.org/rust/parquet/index.html) - The official Native Rust implementation of Apache Parquet, part of the Apache Arrow project.
 - [Polars](https://github.com/pola-rs/polars) - A DataFrame interface on top of an OLAP Query Engine that supports reading and writing Parquet files, with bindings for Python.
