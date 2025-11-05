@@ -103,6 +103,7 @@
 
 ### Rust
 
+- [datafusion](https://datafusion.apache.org) - An extensible query engine written in Rust that can read/write Parquet files using SQL or a DataFrame API.
 - [duckdb-rs](https://duckdb.org/docs/stable/clients/rust) - DuckDB Rust client.
 - [parquet](https://arrow.apache.org/rust/parquet/index.html) - The official Native Rust implementation of Apache Parquet, part of the Apache Arrow project.
 - [Polars](https://github.com/pola-rs/polars) - A DataFrame interface on top of an OLAP Query Engine that supports reading and writing Parquet files, with bindings for Python.
@@ -115,6 +116,7 @@
 
 ### Command-line
 
+- [DataFusion CLI](https://datafusion.apache.org/user-guide/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
 - [DuckDB CLI](https://duckdb.org/docs/stable/clients/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
 - [parquet-tools](https://pypi.org/project/parquet-tools/) - Python-based CLI tool for exploring parquet files (part of Apache Arrow).
 - [parquet-cli](https://github.com/apache/parquet-java/tree/master/parquet-cli) - Java-based CLI tool for exploring parquet files.
