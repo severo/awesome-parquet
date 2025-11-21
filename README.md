@@ -123,6 +123,7 @@
 - [parquet-tools](https://pypi.org/project/parquet-tools/) - Python-based CLI tool for exploring parquet files (part of Apache Arrow).
 - [parquet-cli](https://github.com/apache/parquet-java/tree/master/parquet-cli) - Java-based CLI tool for exploring parquet files.
 - [parquet-cli-standalone](https://github.com/marcelmay/parquet-cli-standalone) - A JAR file for the parquet-cli tool which can be run without any dependencies.
+- [parquet-grep](https://github.com/hyparam/parquet-grep) - A CLI tool to search for strings in Parquet files.
 - [Spark](https://spark.apache.org/) - A multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
 - [Tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 
