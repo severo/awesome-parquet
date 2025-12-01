@@ -89,7 +89,8 @@
 - [duckdb-python](https://duckdb.org/docs/stable/clients/python/overview) - DuckDB Python client.
 - [pyarrow](https://arrow.apache.org/docs/python/parquet.html) - A Python API for functionality provided by the Arrow C++ libraries, along with tools for Arrow integration and interoperability with Pandas, NumPy, and other software in the Python ecosystem.
 - [pylibcudf](https://docs.rapids.ai/api/cudf/stable/pylibcudf/) - A lightweight Cython interface to libcudf that provides near-zero overhead for GPU-accelerated data processing in Python.
-- [fastparquet](https://github.com/dask/fastparquet/) - A Python implementation of the Parquet columnar file format. 
+- [fastparquet](https://github.com/dask/fastparquet/) - A Python implementation of the Parquet columnar file format.
+- [Datanomy](https://github.com/raulcd/datanomy) - Terminal-based tool for inspecting and understanding data files.
 
 ### R
 
