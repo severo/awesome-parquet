@@ -154,6 +154,7 @@
 - [Hyparquet: The Quest for Instant Data](https://blog.hyperparam.app/2025/07/24/quest-for-instant-data/) - 6 optimization tricks to read Parquet files faster in the browser.
 - [Querying Parquet with Precision Using DuckDB](https://duckdb.org/2021/06/25/querying-parquet.html) - Describes how DuckDB optimizes queries to a Parquet file using projection & filter pushdown.
 - [Why Parquet Is the Go-To Format for Data Engineers](https://luminousmen.com/post/why-parquet-is-the-goto-format-for-data-engineers) - A graphical description of the Parquet format with optimization and best practices.
+- [Column Storage for the AI Era](https://sympathetic.ink/2025/12/11/Column-Storage-for-the-AI-era.html) - A proposal by the creator of Parquet to better support AI workloads by adding encodings and metadata.
 
 ### Documentation
 
