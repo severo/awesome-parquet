@@ -118,6 +118,7 @@
 
 - [DataFusion CLI](https://datafusion.apache.org/user-guide/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
 - [Datanomy](https://github.com/raulcd/datanomy) - A terminal-based tool for visualizing a Parquet file's metadata and structure.
+- [DataTUI](https://www.datatui.io/) - A keyboard-first terminal UI for exploring Parquet with tabs, sorting, filtering, SQL (Polars), and more.
 - [DuckDB CLI](https://duckdb.org/docs/stable/clients/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
 - [parqeye](https://github.com/kaushiksrini/parqeye) - Peek inside Parquet files right from your terminal.
 - [parquet-tools](https://pypi.org/project/parquet-tools/) - Python-based CLI tool for exploring parquet files (part of Apache Arrow).
