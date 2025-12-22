@@ -25,6 +25,7 @@
   - [Command-line](#command-line)
   - [Desktop applications](#desktop-applications)
   - [Plugins](#plugins)
+  - [Terminal UI](#terminal-ui)
   - [Web](#web)
 - [Resources](#resources)
   - [Blogs](#blogs)
@@ -117,16 +118,12 @@
 ### Command-line
 
 - [DataFusion CLI](https://datafusion.apache.org/user-guide/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
-- [Datanomy](https://github.com/raulcd/datanomy) - A terminal-based tool for visualizing a Parquet file's metadata and structure.
-- [DataTUI](https://www.datatui.io/) - A keyboard-first terminal UI for exploring Parquet with tabs, sorting, filtering, SQL (Polars), and more.
 - [DuckDB CLI](https://duckdb.org/docs/stable/clients/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
-- [parqeye](https://github.com/kaushiksrini/parqeye) - Peek inside Parquet files right from your terminal.
 - [parquet-tools](https://pypi.org/project/parquet-tools/) - Python-based CLI tool for exploring parquet files (part of Apache Arrow).
 - [parquet-cli](https://github.com/apache/parquet-java/tree/master/parquet-cli) - Java-based CLI tool for exploring parquet files.
 - [parquet-cli-standalone](https://github.com/marcelmay/parquet-cli-standalone) - A JAR file for the parquet-cli tool which can be run without any dependencies.
 - [parquet-grep](https://github.com/hyparam/parquet-grep) - A CLI tool to search for strings in Parquet files.
 - [Spark](https://spark.apache.org/) - A multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
-- [Tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 
 ### Desktop applications
 
@@ -136,6 +133,13 @@
 ### Plugins
 
 - [nf-parquet](https://github.com/nextflow-io/nf-parquet) - A Nextflow plugin able to read and write parquet files.
+
+### Terminal UI
+
+- [Datanomy](https://github.com/raulcd/datanomy) - A terminal-based tool for visualizing a Parquet file's metadata and structure.
+- [DataTUI](https://www.datatui.io/) - A keyboard-first terminal UI for exploring Parquet with tabs, sorting, filtering, SQL (Polars), and more.
+- [parqeye](https://github.com/kaushiksrini/parqeye) - Peek inside Parquet files right from your terminal.
+- [Tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 
 ### Web
 
