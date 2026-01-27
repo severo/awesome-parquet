@@ -139,6 +139,7 @@
 - [Datanomy](https://github.com/raulcd/datanomy) - A terminal-based tool for visualizing a Parquet file's metadata and structure.
 - [DataTUI](https://www.datatui.io/) - A keyboard-first terminal UI for exploring Parquet with tabs, sorting, filtering, SQL (Polars), and more.
 - [parqeye](https://github.com/kaushiksrini/parqeye) - Peek inside Parquet files right from your terminal.
+- [parquetlens](https://github.com/cfahlgren1/parquetlens) - Parquet previewer with a csvlens-style TUI.
 - [Tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 
 ### Web
@@ -147,7 +148,7 @@
 - [DataConverter.io](https://dataconverter.io/tools/parquet) - Online tools for viewing, converting, and transforming Parquet files.
 - [Datasette](https://lite.datasette.io/) - A tool to explore datasets, with support for reading Parquet files.
 - [Onyxia Data Explorer](https://datalab.sspcloud.fr/data-explorer) - A web-based tool to explore Parquet files in the browser.
-- [Parquet File Visualizer](https://julien.ledem.net/experiment/parquet-visualizer.html) - Claude-code generated parquet metadata vizualizer that runs in your browser.
+- [Parquet File Visualizer](https://julien.ledem.net/experiment/parquet-visualizer.html) - Claude-code generated parquet metadata visualizer that runs in your browser.
 - [Parquet Viewer](https://parquet-viewer.xiangpeng.systems/) - View parquet files online.
 - [Quak](https://manzt.github.io/quak) - A scalable data profiler for quickly scanning large tables.
 
@@ -178,7 +179,7 @@
 
 - [F3](https://github.com/future-file-format/F3) - A data file format that is designed with efficiency, interoperability, and extensibility in mind.
 - [GeoParquet](https://geoparquet.org/) - Specification for storing geospatial vector data (point, line, polygon) in Parquet.
-- [Iceberg](https://iceberg.apache.org/) - A high-performance format for huge analytic tables, that supports Parquet as one of its storage formats.
+- [Iceberg](https://iceberg.apache.org/) - A high-performance format for huge analytic tables that supports Parquet as one of its storage formats.
 - [Lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs.
 - [Nimble](https://github.com/facebookincubator/nimble) - File format for storage of large columnar datasets.
 - [ORC](https://orc.apache.org/) - Self-describing type-aware columnar file format designed for Hadoop workloads.
