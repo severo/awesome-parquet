@@ -31,6 +31,7 @@
   - [Blogs](#blogs)
   - [Documentation](#documentation)
   - [Educative resources](#educative-resources)
+  - [Parquet engineering](#parquet-engineering)
   - [Tests](#tests)
 - [Related formats](#related-formats)
 
@@ -170,6 +171,13 @@
 ### Educative resources
 
 - [ssphub](https://ssphub.github.io/ssphub-ateliers-parquet/) - Un atelier de l'Insee illustrant l'utilisation des données du recensement 🇫🇷 diffusées au format Parquet.
+
+### Parquet engineering
+
+- [Best Practices for Distributing GeoParquet](https://github.com/opengeospatial/geoparquet/blob/main/format-specs/distributing-geoparquet.md/) - Best practices for making 'good' GeoParquet files, especially for distribution of data.
+- [Handling Parquet Files](https://duckdb.org/docs/stable/guides/performance/file_formats#handling-parquet-files) - Recommendations about the row group size and the Parquet file sizes.
+- [Les filtres de Bloom dans Parquet](https://www.icem7.fr/outils/les-filtres-de-bloom-dans-parquet/) - Un article de fond sur les filtres de Bloom dans Parquet, utiles pour indexer des colonnes non triées, à forte cardinalité.
+- [Tips for Writing Parquet Files](https://duckdb.org/docs/stable/data/parquet/tips#tips-for-writing-parquet-files) - Tips for choosing the right parameters when writing Parquet files, such as the row group size and the number of row groups per file.
 
 ### Tests
 
