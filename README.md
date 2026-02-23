@@ -151,6 +151,7 @@
 - [ChatDB](https://www.chatdb.ai/tools) - Online tools for viewing and converting from and to Parquet files.
 - [DataConverter.io](https://dataconverter.io/tools/parquet) - Online tools for viewing, converting, and transforming Parquet files.
 - [Datasette](https://lite.datasette.io/) - A tool to explore datasets, with support for reading Parquet files.
+- [DataStudio](https://github.com/dataspren-analytics/datastudio) - Explore and visualize data, entirely in your browser.
 - [Onyxia Data Explorer](https://datalab.sspcloud.fr/data-explorer) - A web-based tool to explore Parquet files in the browser.
 - [Parquet File Visualizer](https://julien.ledem.net/experiment/parquet-visualizer.html) - Claude-code generated parquet metadata visualizer that runs in your browser.
 - [Parquet Viewer](https://parquet-viewer.xiangpeng.systems/) - View parquet files online.
