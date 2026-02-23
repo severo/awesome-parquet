@@ -121,6 +121,7 @@
 - [DataFusion CLI](https://datafusion.apache.org/user-guide/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
 - [DuckDB CLI](https://duckdb.org/docs/stable/clients/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
 - [nail](https://github.com/Vitruves/nail-parquet) - Command-line tool for analyzing, transforming, and exploring data files.
+- [ODBC to Parquet](https://github.com/pacman82/odbc2parquet) - A command-line tool to query an ODBC data source and write the result into a parquet file.
 - [parquet-tools](https://pypi.org/project/parquet-tools/) - Python-based CLI tool for exploring parquet files (part of Apache Arrow).
 - [parquet-cli](https://github.com/apache/parquet-java/tree/master/parquet-cli) - Java-based CLI tool for exploring parquet files.
 - [parquet-cli-standalone](https://github.com/marcelmay/parquet-cli-standalone) - A JAR file for the parquet-cli tool which can be run without any dependencies.
