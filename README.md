@@ -62,6 +62,7 @@
 
 - [cudf](https://github.com/rapidsai/cudf/tree/main/java) - Java bindings for cudf, to be able to process large amounts of data on a GPU.
 - [duckdb-java](https://duckdb.org/docs/stable/clients/java) - DuckDB Java/JDBC API.
+- [hardwood](https://github.com/hardwood-hq/hardwood) - A minimal dependency implementation of Apache Parquet.
 - [parquet-carpet](https://github.com/jerolba/parquet-carpet) - A Java library for serializing and deserializing Parquet files efficiently using Java records.
 - [parquet-java](https://github.com/apache/parquet-java) - A Java implementation of the Parquet format, owned by the Apache Software Foundation.
 
