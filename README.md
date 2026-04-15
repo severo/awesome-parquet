@@ -120,6 +120,7 @@
 ### Command-line
 
 - [DataFusion CLI](https://datafusion.apache.org/user-guide/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
+- [DataSpoc Pipe](https://github.com/dataspoclab/dataspoc-pipe) - A data ingestion CLI that connects 400+ Singer taps to Parquet files in cloud buckets (S3, GCS, Azure).
 - [DuckDB CLI](https://duckdb.org/docs/stable/clients/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
 - [nail](https://github.com/Vitruves/nail-parquet) - Command-line tool for analyzing, transforming, and exploring data files.
 - [ODBC to Parquet](https://github.com/pacman82/odbc2parquet) - A command-line tool to query an ODBC data source and write the result into a parquet file.
