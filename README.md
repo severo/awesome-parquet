@@ -131,6 +131,7 @@
 
 ### Desktop applications
 
+- [DBConvert Streams](https://streams.dbconvert.com/cross-database-sql) - A desktop SQL tool for querying Parquet, CSV, JSON, databases, and S3-compatible storage in one workspace.
 - [Munquet](https://gitlab.com/zulfian1732/munquet) - A desktop tool to convert CSV files to Parquet.
 - [Pink Parquet](https://pinkparquet.com/) - A free and open-source, user-friendly viewer for Parquet files for Windows.
 - [Tad](https://github.com/antonycourtney/tad) - An application for viewing and analyzing tabular data sets.
