@@ -115,6 +115,10 @@
 
 - [duckdb-swift](https://duckdb.org/docs/stable/clients/swift) - DuckDB Swift client.
 
+### VBA
+
+- [duckdb-vba](https://github.com/EtienneLenoir/duckdb-vba) - Excel/VBA bridge for DuckDB, enabling users to read, query, transform, and export Parquet files directly from Excel through a native DLL bridge.
+
 ## Tools
 
 ### Command-line
