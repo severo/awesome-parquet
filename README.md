@@ -21,6 +21,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Swift](#swift)
+  - [VBA](#vba)
 - [Tools](#tools)
   - [Command-line](#command-line)
   - [Desktop applications](#desktop-applications)
