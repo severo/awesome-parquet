@@ -94,6 +94,7 @@
 - [fastparquet](https://github.com/dask/fastparquet/) - A Python implementation of the Parquet columnar file format. 
 - [pyarrow](https://arrow.apache.org/docs/python/parquet.html) - A Python API for functionality provided by the Arrow C++ libraries, along with tools for Arrow integration and interoperability with Pandas, NumPy, and other software in the Python ecosystem.
 - [pylibcudf](https://docs.rapids.ai/api/cudf/stable/pylibcudf/) - A lightweight Cython interface to libcudf that provides near-zero overhead for GPU-accelerated data processing in Python.
+- [rugo](https://rugo.dev/) – A lightweight, dependency-free Python library for Apache Parquet files.
 
 ### R
 
