@@ -164,6 +164,7 @@
 - [Onyxia Data Explorer](https://datalab.sspcloud.fr/data-explorer) - A web-based tool to explore Parquet files in the browser.
 - [Parquet File Visualizer](https://julien.ledem.net/experiment/parquet-visualizer.html) - Claude-code generated parquet metadata visualizer that runs in your browser.
 - [Parquet Viewer](https://parquet-viewer.xiangpeng.systems/) - View parquet files online.
+- [ParquetKit](https://parquetkit.com) - View, query with SQL, and convert Parquet files entirely in the browser, powered by DuckDB-Wasm and hyparquet.
 - [Quak](https://manzt.github.io/quak) - A scalable data profiler for quickly scanning large tables.
 
 ## Resources
