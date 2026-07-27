@@ -16,6 +16,7 @@ First, ensure that your addition meets the following criteria:
 - The link and description are separated by a dash. Example: - [AVA](…) - JavaScript test runner.
 - The description starts with an uppercase character and ends with a period.
 - Consistent and correct naming. For example, Node.js, not NodeJS or node.js.
+- For libraries and tools, the code source must be open source and publicly available.
 
 Now, to send your contribution, follow these steps:
 
