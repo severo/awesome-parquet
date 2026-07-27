@@ -56,7 +56,7 @@
 ### Go
 
 - [duckdb-go](https://duckdb.org/docs/stable/clients/go) - DuckDB Go client.
-- [parquet](https://pkg.go.dev/github.com/apache/arrow-go/v18@v18.4.1/parquet) - Official Go implementation of Apache Arrow.
+- [parquet](https://pkg.go.dev/github.com/apache/arrow-go/v18/parquet) - Official Go implementation of Apache Arrow.
 - [parsyl/parquet](https://github.com/parsyl/parquet) - A Go library for reading and writing Parquet files.
 
 ### Java
