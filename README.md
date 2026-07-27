@@ -2,7 +2,7 @@
 
 [![Parquet Logo](assets/logo.svg)](https://parquet.apache.org/)
 
-> Useful resources for using the Parquet format
+> Open-source resources for using the Parquet format
 
 ## Contents
 
@@ -56,7 +56,7 @@
 ### Go
 
 - [duckdb-go](https://duckdb.org/docs/stable/clients/go) - DuckDB Go client.
-- [parquet](https://pkg.go.dev/github.com/apache/arrow-go/v18@v18.4.1/parquet) - Official Go implementation of Apache Arrow.
+- [parquet](https://pkg.go.dev/github.com/apache/arrow-go/v18/parquet) - Official Go implementation of Apache Arrow.
 - [parsyl/parquet](https://github.com/parsyl/parquet) - A Go library for reading and writing Parquet files.
 
 ### Java
@@ -138,7 +138,6 @@
 
 ### Desktop applications
 
-- [DBConvert Streams](https://streams.dbconvert.com/cross-database-sql) - A desktop SQL tool for querying Parquet, CSV, JSON, databases, and S3-compatible storage in one workspace.
 - [Munquet](https://gitlab.com/zulfian1732/munquet) - A desktop tool to convert CSV files to Parquet.
 - [Pink Parquet](https://pinkparquet.com/) - A free and open-source, user-friendly viewer for Parquet files for Windows.
 - [Tad](https://github.com/antonycourtney/tad) - An application for viewing and analyzing tabular data sets.
@@ -157,8 +156,6 @@
 
 ### Web
 
-- [ChatDB](https://www.chatdb.ai/tools) - Online tools for viewing and converting from and to Parquet files.
-- [DataConverter.io](https://dataconverter.io/tools/parquet) - Online tools for viewing, converting, and transforming Parquet files.
 - [Datasette](https://lite.datasette.io/) - A tool to explore datasets, with support for reading Parquet files.
 - [DataStudio](https://github.com/dataspren-analytics/datastudio) - Explore and visualize data, entirely in your browser.
 - [GeoParquet Viewer](https://geoparquet.info/) - A table and map viewer for GeoParquet files in the browser.
