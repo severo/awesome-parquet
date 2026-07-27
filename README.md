@@ -73,6 +73,7 @@
 - [duckdb-wasm](https://duckdb.org/docs/stable/clients/wasm/overview) - WebAssembly version of DuckDB.
 - [hyparquet](https://github.com/hyparquet/hyparquet) - A lightweight, dependency-free, pure JavaScript library for parsing Apache Parquet files.
 - [parquet-wasm](https://kylebarron.dev/parquet-wasm/) - WebAssembly bindings to read and write the Apache Parquet format to and from Apache Arrow using the Rust parquet and arrow crates.
+- [lakeql](https://github.com/earonesty/lakeql) - Pure JavaScript duck-compatible SQL query engine for Parquet and Iceberg data in object storage.
 
 ### Julia
 
