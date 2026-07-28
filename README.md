@@ -163,6 +163,7 @@
 - [Parquet File Visualizer](https://julien.ledem.net/experiment/parquet-visualizer.html) - Claude-code generated parquet metadata visualizer that runs in your browser.
 - [Parquet Viewer](https://parquet-viewer.xiangpeng.systems/) - View parquet files online.
 - [ParquetKit](https://parquetkit.com) - View, query with SQL, and convert Parquet files entirely in the browser, powered by DuckDB-Wasm and hyparquet.
+- [pygeoapi](https://pygeoapi.io) - pygeoapi is a Python server implementation of the OGC API suite of standards (supports GeoParquet publishing).
 - [Quak](https://manzt.github.io/quak) - A scalable data profiler for quickly scanning large tables.
 
 ## Resources
