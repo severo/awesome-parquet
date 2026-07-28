@@ -2,7 +2,7 @@
 
 [![Parquet Logo](assets/logo.svg)](https://parquet.apache.org/)
 
-> Open-source resources for using the Parquet format
+> Open-source resources for using the Parquet format. This list only includes resources for the generic Parquet format. If you are looking for GeoParquet resources (tools, libraries, data providers), please check out [geoparquet.org](https://geoparquet.org/#implementations).
 
 ## Contents
 
@@ -158,7 +158,6 @@
 
 - [Datasette](https://lite.datasette.io/) - A tool to explore datasets, with support for reading Parquet files.
 - [DataStudio](https://github.com/dataspren-analytics/datastudio) - Explore and visualize data, entirely in your browser.
-- [GeoParquet Viewer](https://geoparquet.info/) - A table and map viewer for GeoParquet files in the browser.
 - [Onyxia Data Explorer](https://datalab.sspcloud.fr/data-explorer) - A web-based tool to explore Parquet files in the browser.
 - [Parquet File Visualizer](https://julien.ledem.net/experiment/parquet-visualizer.html) - Claude-code generated parquet metadata visualizer that runs in your browser.
 - [Parquet Viewer](https://parquet-viewer.xiangpeng.systems/) - View parquet files online.
@@ -187,7 +186,6 @@
 
 ### Parquet engineering
 
-- [Best Practices for Distributing GeoParquet](https://github.com/opengeospatial/geoparquet/blob/main/format-specs/distributing-geoparquet.md/) - Best practices for making 'good' GeoParquet files, especially for distribution of data.
 - [Handling Parquet Files](https://duckdb.org/docs/stable/guides/performance/file_formats#handling-parquet-files) - Recommendations about the row group size and the Parquet file sizes.
 - [Les filtres de Bloom dans Parquet](https://www.icem7.fr/outils/les-filtres-de-bloom-dans-parquet/) - Un article de fond sur les filtres de Bloom dans Parquet, utiles pour indexer des colonnes non triées, à forte cardinalité.
 - [Tips for Writing Parquet Files](https://duckdb.org/docs/stable/data/parquet/tips#tips-for-writing-parquet-files) - Tips for choosing the right parameters when writing Parquet files, such as the row group size and the number of row groups per file.
