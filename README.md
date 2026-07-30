@@ -190,6 +190,7 @@
 
 - [Handling Parquet Files](https://duckdb.org/docs/stable/guides/performance/file_formats#handling-parquet-files) - Recommendations about the row group size and the Parquet file sizes.
 - [Les filtres de Bloom dans Parquet](https://www.icem7.fr/outils/les-filtres-de-bloom-dans-parquet/) - Un article de fond sur les filtres de Bloom dans Parquet, utiles pour indexer des colonnes non triées, à forte cardinalité.
+- [Paging Through a Parquet File in DuckDB: file_row_number or OFFSET?](https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/) - In-depth investigation about paging through a Parquet file, with recommendations about row group size.
 - [Tips for Writing Parquet Files](https://duckdb.org/docs/stable/data/parquet/tips#tips-for-writing-parquet-files) - Tips for choosing the right parameters when writing Parquet files, such as the row group size and the number of row groups per file.
 
 ### Tests
