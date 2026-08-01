@@ -24,11 +24,11 @@
   - [VBA](#vba)
 - [Tools](#tools)
   - [Command-line](#command-line)
-  - [Databases](#databases)
   - [Desktop applications](#desktop-applications)
   - [Plugins](#plugins)
   - [Terminal UI](#terminal-ui)
   - [Web](#web)
+  - [Databases](#databases)
 - [Resources](#resources)
   - [Blogs](#blogs)
   - [Documentation](#documentation)
@@ -138,10 +138,6 @@
 - [parquet-tools](https://pypi.org/project/parquet-tools/) - Python-based CLI tool for exploring parquet files (part of Apache Arrow).
 - [Spark](https://spark.apache.org/) - A multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
 
-### Databases
-
-- [KoldStore](https://github.com/kalamdb/koldstore) - PostgreSQL tiered-storage that moves historical rows to Parquet while keeping the original table fully queryable and supporting updates and deletes.
-
 ### Desktop applications
 
 - [Munquet](https://gitlab.com/zulfian1732/munquet) - A desktop tool to convert CSV files to Parquet.
@@ -170,6 +166,10 @@
 - [Parquet Viewer](https://parquet-viewer.xiangpeng.systems/) - View parquet files online.
 - [ParquetKit](https://parquetkit.com) - View, query with SQL, and convert Parquet files entirely in the browser, powered by DuckDB-Wasm and hyparquet.
 - [Quak](https://manzt.github.io/quak) - A scalable data profiler for quickly scanning large tables.
+
+### Databases
+
+- [KoldStore](https://github.com/kalamdb/koldstore) - PostgreSQL tiered-storage that moves historical rows to Parquet while keeping the original table fully queryable and supporting updates and deletes.
 
 ## Resources
 
