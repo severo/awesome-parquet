@@ -24,6 +24,7 @@
   - [VBA](#vba)
 - [Tools](#tools)
   - [Command-line](#command-line)
+  - [Databases](#databases)
   - [Desktop applications](#desktop-applications)
   - [Plugins](#plugins)
   - [Terminal UI](#terminal-ui)
@@ -136,6 +137,10 @@
 - [parquet-grep](https://github.com/hyparam/parquet-grep) - A CLI tool to search for strings in Parquet files.
 - [parquet-tools](https://pypi.org/project/parquet-tools/) - Python-based CLI tool for exploring parquet files (part of Apache Arrow).
 - [Spark](https://spark.apache.org/) - A multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
+
+### Databases
+
+- [KoldStore](https://github.com/kalamdb/koldstore) - PostgreSQL tiered-storage that moves historical rows to Parquet while keeping the original table fully queryable and supporting updates and deletes.
 
 ### Desktop applications
 
