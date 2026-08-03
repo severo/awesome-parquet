@@ -25,10 +25,9 @@
 - [Tools](#tools)
   - [Command-line](#command-line)
   - [Desktop applications](#desktop-applications)
-  - [Plugins](#plugins)
+  - [Plugins and extensions](#plugins-and-extensions)
   - [Terminal UI](#terminal-ui)
   - [Web](#web)
-  - [Databases](#databases)
 - [Resources](#resources)
   - [Blogs](#blogs)
   - [Documentation](#documentation)
@@ -144,8 +143,9 @@
 - [Pink Parquet](https://pinkparquet.com/) - A free and open-source, user-friendly viewer for Parquet files for Windows.
 - [Tad](https://github.com/antonycourtney/tad) - An application for viewing and analyzing tabular data sets.
 
-### Plugins
+### Plugins and extensions
 
+- [KoldStore](https://github.com/kalamdb/koldstore) - PostgreSQL tiered storage that moves historical rows to Parquet while keeping the original table fully queryable and supporting updates and deletes.
 - [nf-parquet](https://github.com/nextflow-io/nf-parquet) - A Nextflow plugin able to read and write parquet files.
 
 ### Terminal UI
@@ -166,10 +166,6 @@
 - [Parquet Viewer](https://parquet-viewer.xiangpeng.systems/) - View parquet files online.
 - [ParquetKit](https://parquetkit.com) - View, query with SQL, and convert Parquet files entirely in the browser, powered by DuckDB-Wasm and hyparquet.
 - [Quak](https://manzt.github.io/quak) - A scalable data profiler for quickly scanning large tables.
-
-### Databases
-
-- [KoldStore](https://github.com/kalamdb/koldstore) - PostgreSQL tiered-storage that moves historical rows to Parquet while keeping the original table fully queryable and supporting updates and deletes.
 
 ## Resources
 
