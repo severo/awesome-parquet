@@ -28,6 +28,7 @@
   - [Plugins](#plugins)
   - [Terminal UI](#terminal-ui)
   - [Web](#web)
+  - [Databases](#databases)
 - [Resources](#resources)
   - [Blogs](#blogs)
   - [Documentation](#documentation)
@@ -165,6 +166,10 @@
 - [Parquet Viewer](https://parquet-viewer.xiangpeng.systems/) - View parquet files online.
 - [ParquetKit](https://parquetkit.com) - View, query with SQL, and convert Parquet files entirely in the browser, powered by DuckDB-Wasm and hyparquet.
 - [Quak](https://manzt.github.io/quak) - A scalable data profiler for quickly scanning large tables.
+
+### Databases
+
+- [KoldStore](https://github.com/kalamdb/koldstore) - PostgreSQL tiered-storage that moves historical rows to Parquet while keeping the original table fully queryable and supporting updates and deletes.
 
 ## Resources
 
