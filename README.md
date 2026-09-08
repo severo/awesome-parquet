@@ -139,6 +139,7 @@
 
 ### Desktop applications
 
+- [DBConvert Streams](https://github.com/slotix/dbconvert-streams-public) - A desktop SQL tool for querying Parquet, CSV, JSON, databases, and S3-compatible storage in one workspace.
 - [Munquet](https://gitlab.com/zulfian1732/munquet) - A desktop tool to convert CSV files to Parquet.
 - [Pink Parquet](https://pinkparquet.com/) - A free and open-source, user-friendly viewer for Parquet files for Windows.
 - [Tad](https://github.com/antonycourtney/tad) - An application for viewing and analyzing tabular data sets.
@@ -158,9 +159,9 @@
 
 ### Web
 
-- [DBConvert Streams Parquet Viewer](https://streams.dbconvert.com/parquet-viewer) - A browser-local viewer for inspecting Parquet metadata and rows, running read-only SQL, and exporting results.
 - [Datasette](https://lite.datasette.io/) - A tool to explore datasets, with support for reading Parquet files.
 - [DataStudio](https://github.com/dataspren-analytics/datastudio) - Explore and visualize data, entirely in your browser.
+- [DBConvert Streams Parquet Viewer](https://streams.dbconvert.com/parquet-viewer) - A browser-local viewer for inspecting Parquet metadata and rows, running read-only SQL, and exporting results.
 - [GeoParquet Viewer](https://geoparquet.info/) - A table and map viewer for Parquet files in the browser.
 - [Onyxia Data Explorer](https://datalab.sspcloud.fr/data-explorer) - A web-based tool to explore Parquet files in the browser.
 - [Parquet File Visualizer](https://julien.ledem.net/experiment/parquet-visualizer.html) - Claude-code generated parquet metadata visualizer that runs in your browser.
