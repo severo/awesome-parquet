@@ -158,6 +158,7 @@
 
 ### Web
 
+- [DBConvert Streams Parquet Viewer](https://streams.dbconvert.com/parquet-viewer) - A browser-local viewer for inspecting Parquet metadata and rows, running read-only SQL, and exporting results.
 - [Datasette](https://lite.datasette.io/) - A tool to explore datasets, with support for reading Parquet files.
 - [DataStudio](https://github.com/dataspren-analytics/datastudio) - Explore and visualize data, entirely in your browser.
 - [GeoParquet Viewer](https://geoparquet.info/) - A table and map viewer for Parquet files in the browser.
