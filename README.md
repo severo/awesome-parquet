@@ -168,6 +168,7 @@
 - [Parquet Viewer](https://parquet-viewer.xiangpeng.systems/) - View parquet files online.
 - [parquet.to](https://parquet.to) - Convert Parquet to and from CSV, JSON and Excel, with a viewer, SQL editor, chart builder and row editor.
 - [ParquetKit](https://parquetkit.com) - View, query with SQL, and convert Parquet files entirely in the browser, powered by DuckDB-Wasm and hyparquet.
+- [Parquetly](https://www.parquetly.com) - View Parquet files in the browser, with schema, row group and column chunk statistics, SQL via DuckDB-Wasm, and export to CSV or JSON, all without uploading the file.
 - [Quak](https://manzt.github.io/quak) - A scalable data profiler for quickly scanning large tables.
 
 ## Resources
