@@ -189,6 +189,7 @@
 
 ### Educative resources
 
+- [Caso Abierto](https://caso-abierto.christianvadillo.workers.dev) - Detective game for learning SQL where each case file is a set of Parquet tables queried in the browser with DuckDB-Wasm.
 - [ssphub](https://ssphub.github.io/ssphub-ateliers-parquet/) - Un atelier de l'Insee illustrant l'utilisation des données du recensement 🇫🇷 diffusées au format Parquet.
 
 ### Parquet engineering
