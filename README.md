@@ -166,6 +166,7 @@
 - [Onyxia Data Explorer](https://datalab.sspcloud.fr/data-explorer) - A web-based tool to explore Parquet files in the browser.
 - [Parquet File Visualizer](https://julien.ledem.net/experiment/parquet-visualizer.html) - Claude-code generated parquet metadata visualizer that runs in your browser.
 - [Parquet Viewer](https://parquet-viewer.xiangpeng.systems/) - View parquet files online.
+- [Parquet X-ray](https://huggingface.co/spaces/cfahlgren1/parquet-xray) - See how a Parquet file is laid out, byte by byte. Only the footer and indexes are downloaded.
 - [parquet.to](https://parquet.to) - Convert Parquet to and from CSV, JSON and Excel, with a viewer, SQL editor, chart builder and row editor.
 - [ParquetKit](https://parquetkit.com) - View, query with SQL, and convert Parquet files entirely in the browser, powered by DuckDB-Wasm and hyparquet.
 - [Parquetly](https://www.parquetly.com) - View Parquet files in the browser, with schema, row group and column chunk statistics, SQL via DuckDB-Wasm, and export to CSV or JSON, all without uploading the file.
