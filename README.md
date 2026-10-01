@@ -163,6 +163,7 @@
 - [DataStudio](https://github.com/dataspren-analytics/datastudio) - Explore and visualize data, entirely in your browser.
 - [DBConvert Streams Parquet Viewer](https://streams.dbconvert.com/parquet-viewer) - A browser-local viewer for inspecting Parquet metadata and rows, running read-only SQL, and exporting results.
 - [GeoParquet Viewer](https://geoparquet.info/) - A table and map viewer for Parquet files in the browser.
+- [Hyparquet demo](https://hyparam.github.io/demos/hyparquet) - A drag-and-drop interface for loading parquet files into the browser, including data table, metadata and file layout views.
 - [Onyxia Data Explorer](https://datalab.sspcloud.fr/data-explorer) - A web-based tool to explore Parquet files in the browser.
 - [Parquet File Visualizer](https://julien.ledem.net/experiment/parquet-visualizer.html) - Claude-code generated parquet metadata visualizer that runs in your browser.
 - [Parquet Viewer](https://parquet-viewer.xiangpeng.systems/) - View parquet files online.
