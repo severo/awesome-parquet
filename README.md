@@ -72,6 +72,7 @@
 - [duckdb-node-neo](https://duckdb.org/docs/stable/clients/node_neo/overview) - DuckDB Node.js client.
 - [duckdb-wasm](https://duckdb.org/docs/stable/clients/wasm/overview) - WebAssembly version of DuckDB.
 - [hyparquet](https://github.com/hyparquet/hyparquet) - A lightweight, dependency-free, pure JavaScript library for parsing Apache Parquet files.
+- [infino](https://www.npmjs.com/package/@infino-ai/infino) - Node.js bindings for infino, an embedded retrieval library that stores data as Parquet with BM25 and vector indexes inside the files.
 - [lakeql](https://github.com/earonesty/lakeql) - Pure JavaScript duck-compatible SQL query engine for Parquet and Iceberg data in object storage.
 - [parquet-wasm](https://kylebarron.dev/parquet-wasm/) - WebAssembly bindings to read and write the Apache Parquet format to and from Apache Arrow using the Rust parquet and arrow crates.
 
@@ -93,6 +94,7 @@
 
 - [duckdb-python](https://duckdb.org/docs/stable/clients/python/overview) - DuckDB Python client.
 - [fastparquet](https://github.com/dask/fastparquet/) - A Python implementation of the Parquet columnar file format. 
+- [infino](https://pypi.org/project/infino/) - Python bindings for infino, an embedded retrieval library that stores data as Parquet with BM25 and vector indexes inside the files.
 - [pyarrow](https://arrow.apache.org/docs/python/parquet.html) - A Python API for functionality provided by the Arrow C++ libraries, along with tools for Arrow integration and interoperability with Pandas, NumPy, and other software in the Python ecosystem.
 - [pylibcudf](https://docs.rapids.ai/api/cudf/stable/pylibcudf/) - A lightweight Cython interface to libcudf that provides near-zero overhead for GPU-accelerated data processing in Python.
 - [rugo](https://rugo.dev/) - A lightweight, dependency-free Python library for Apache Parquet files.
@@ -111,6 +113,7 @@
 
 - [datafusion](https://datafusion.apache.org) - An extensible query engine written in Rust that can read/write Parquet files using SQL or a DataFrame API.
 - [duckdb-rs](https://duckdb.org/docs/stable/clients/rust) - DuckDB Rust client.
+- [infino](https://github.com/infino-ai/infino) - Embedded retrieval library that writes BM25 full-text and vector indexes into standard Parquet files, with SQL, full-text, and vector search over them.
 - [parquet](https://arrow.apache.org/rust/parquet/index.html) - The official Native Rust implementation of Apache Parquet, part of the Apache Arrow project.
 - [Polars](https://github.com/pola-rs/polars) - A DataFrame interface on top of an OLAP Query Engine that supports reading and writing Parquet files, with bindings for Python.
 
@@ -129,6 +132,7 @@
 - [Agentsor File Contracts](https://github.com/linkoinsight/agentsor-file) - Python CLI for checking a Parquet file against an explicit TOML contract.
 - [DataFusion CLI](https://datafusion.apache.org/user-guide/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
 - [DuckDB CLI](https://duckdb.org/docs/stable/clients/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
+- [infino-cli](https://github.com/infino-ai/infino-cli) - Command-line tool for SQL, full-text, and vector search over Parquet-backed tables on local disk or object storage.
 - [nail](https://github.com/Vitruves/nail-parquet) - Command-line tool for analyzing, transforming, and exploring data files.
 - [ODBC to Parquet](https://github.com/pacman82/odbc2parquet) - A command-line tool to query an ODBC data source and write the result into a parquet file.
 - [parquet-cli](https://github.com/apache/parquet-java/tree/master/parquet-cli) - Java-based CLI tool for exploring parquet files.
