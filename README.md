@@ -127,6 +127,7 @@
 ### Command-line
 
 - [Agentsor File Contracts](https://github.com/linkoinsight/agentsor-file) - Python CLI for checking a Parquet file against an explicit TOML contract.
+- [compara](https://github.com/andrey-usa/compara) - A Rust CLI to compare two tables on a composite key across CSV, TSV, NDJSON and Parquet files, with an HTML diff report.
 - [DataFusion CLI](https://datafusion.apache.org/user-guide/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
 - [DuckDB CLI](https://duckdb.org/docs/stable/clients/cli/overview.html) - A single, dependency-free executable that can read and write Parquet files, with a SQL interface.
 - [nail](https://github.com/Vitruves/nail-parquet) - Command-line tool for analyzing, transforming, and exploring data files.
