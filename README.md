@@ -198,6 +198,7 @@
 ### Parquet engineering
 
 - [Best Practices for Distributing GeoParquet](https://github.com/opengeospatial/geoparquet/blob/main/format-specs/distributing-geoparquet.md) - Recommandations about compression, row group size, ordering, and partitioning, not limited to GeoParquet. 
+- [Embedding User-Defined Indexes in Apache Parquet Files](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/) - Explains how user-defined (custom) indexes in Parquet help speeding up query processing.
 - [Handling Parquet Files](https://duckdb.org/docs/stable/guides/performance/file_formats#handling-parquet-files) - Recommendations about the row group size and the Parquet file sizes.
 - [Les filtres de Bloom dans Parquet](https://www.icem7.fr/outils/les-filtres-de-bloom-dans-parquet/) - Un article de fond sur les filtres de Bloom dans Parquet, utiles pour indexer des colonnes non triées, à forte cardinalité.
 - [Paging Through a Parquet File in DuckDB: file_row_number or OFFSET?](https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/) - In-depth investigation about paging through a Parquet file, with recommendations about row group size.
