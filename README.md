@@ -147,6 +147,7 @@
 
 ### Plugins and extensions
 
+- [CSV Viewer, Excel Viewer & Parquet Viewer](https://github.com/theluckystrike/table-viewer-vscode) - A VS Code extension that opens Parquet, CSV and Excel files as a sortable, filterable table and shows the Parquet schema.
 - [KoldStore](https://github.com/kalamdb/koldstore) - PostgreSQL tiered storage that moves historical rows to Parquet while keeping the original table fully queryable and supporting updates and deletes.
 - [nf-parquet](https://github.com/nextflow-io/nf-parquet) - A Nextflow plugin able to read and write parquet files.
 
