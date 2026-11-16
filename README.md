@@ -22,6 +22,7 @@
   - [Rust](#rust)
   - [Swift](#swift)
   - [VBA](#vba)
+  - [Zig](#zig)
 - [Tools](#tools)
   - [Command-line](#command-line)
   - [Desktop applications](#desktop-applications)
@@ -122,6 +123,10 @@
 
 - [duckdb-vba](https://github.com/EtienneLenoir/duckdb-vba) - Excel/VBA bridge for DuckDB, enabling users to read, query, transform, and export Parquet files directly from Excel through a native DLL bridge.
 
+### Zig
+
+- [zpq](https://zpq.chicagobuss.dev/arrow.html) - A Zig library that can be used from within Python, the JVM, C, C++, or tool that works with Apache Arrow to accelerate Parquet reading and writing, locally or in object storage.
+
 ## Tools
 
 ### Command-line
@@ -137,6 +142,7 @@
 - [parquet-grep](https://github.com/hyparam/parquet-grep) - A CLI tool to search for strings in Parquet files.
 - [parquet-tools](https://pypi.org/project/parquet-tools/) - Python-based CLI tool for exploring parquet files (part of Apache Arrow).
 - [Spark](https://spark.apache.org/) - A multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
+- [zpq](https://zpq.chicagobuss.dev) - A zero-dependency minimalist CLI utility and library in Zig for inspecting, querying, and writing Parquet locally or in object storage as quickly as possible.
 
 ### Desktop applications
 
@@ -185,6 +191,8 @@
 - [Why Parquet Is the Go-To Format for Data Engineers](https://luminousmen.com/post/why-parquet-is-the-goto-format-for-data-engineers) - A graphical description of the Parquet format with optimization and best practices.
 - [Column Storage for the AI Era](https://sympathetic.ink/2025/12/11/Column-Storage-for-the-AI-era.html) - A proposal by the creator of Parquet to better support AI workloads by adding encodings and metadata.
 - [I spent 8 hours learning Parquet. Here’s what I discovered](https://vutr.substack.com/p/the-overview-of-parquet-file-format) - A graphical description of the Parquet format.
+- [zpq for AWS Lambda](https://zpq.chicagobuss.dev/lambda.html) - Accelerate Parquet workloads on AWS with Lambda and zpq, especially if you're already using Athena.
+- [zpq Tricks and Optimizations](https://zpq.chicagobuss.dev/tricks.html) - 79 specific optimizations from hardware-specific to higher-level that come together to make zpq so fast. In order [here](https://zpq.chicagobuss.dev/learn.html).
 
 ### Documentation
 
